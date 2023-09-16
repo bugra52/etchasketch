@@ -66,7 +66,7 @@ for (let i = 0; i !== numberOfSquares; i++) {
     }
 }
 }
-else {window.alert("Number cant be higher than 100")}
+else {window.alert("Not a legit value (value must be an integer max 100")}
 
 
 function clear(){
