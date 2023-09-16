@@ -1,0 +1,46 @@
+body{
+    background-color: grey;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+    margin-top: 50px;
+  }
+  
+  .contentColumn {
+    display: flex;
+    background-color: grey;
+    justify-content: center;
+    
+  }
+  
+  .contentColumn div {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+  }
+
+  .colorButton {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+
+  #black {
+    background-color: black;
+  }
+
+  #red {
+    background-color: red;
+  }
+  
+  #blue {
+    background-color: blue;
+  }
+
+  #yellow {
+    background-color: yellow;
+  }
+
